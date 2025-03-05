@@ -1,4 +1,4 @@
-#include <iostream>
+ni#include <iostream>
 using namespace std;
 
 int main() {
@@ -7,7 +7,7 @@ int main() {
 
     while (choice == 'y') {
         try {
-            cout << "Enter two numbers: ";
+            cout << "Enter two Numbers: ";
             cin >> num1 >> num2;
 
             if (num1 + num2 > 100) {
