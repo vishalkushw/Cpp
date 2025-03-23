@@ -9,7 +9,7 @@ void roll(int roll){
 
 int main(){
 	int r;
-	cout<<"Enter rollnumber : ";
+	cout<<"Enter roll number : ";
 	cin>>r;
    
    roll(r);
