@@ -21,9 +21,9 @@ class Flight{
 	     price=pr;
 		}
 		void getFlightDetails(){
-			cout<<"Flight number :"<<filght_number<<endl;
-			cout<<"Departure city :"<<departure_city<<endl;
-			cout<<"Destination city :"<<destination_city<<endl;
+			cout<<"Flight Number :"<<filght_number<<endl;
+			cout<<"Departure City :"<<departure_city<<endl;
+			cout<<"Destination City :"<<destination_city<<endl;
 			cout<<"Time :"<<departure_time<<endl;
 			cout<<"Avalabel seat :"<<availableSeats<<endl;
 
