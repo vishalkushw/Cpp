@@ -2,7 +2,7 @@
 using namespace std;
 int main (){
 	
-	int a = 12;
+	int a = 6;
 	int b = 34;
 	
        // this is single line comment
