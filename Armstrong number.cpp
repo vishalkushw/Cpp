@@ -14,9 +14,9 @@ int main(){
 		
 	}
 	if(sum==temp){
-		cout<<"It is a armstrong number :"<<sum;
+		cout<<"It is a Armstrong Number :"<<sum;
 	}
 	else{
-		cout<<"It is not a armstrong number";
+		cout<<"It is not a Armstrong Number";
 	}
 }
