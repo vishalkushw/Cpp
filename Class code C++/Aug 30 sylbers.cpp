@@ -1,4 +1,4 @@
-// classs and object
+ classs and object
 // access specifier
 // inheritance  (single multiple)
 // dimond problem(virtual inheritance)
