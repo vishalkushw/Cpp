@@ -176,8 +176,8 @@ class Worker : virtual public Employee {
 };
 
 int main() {
-    Manager manager("Vishal", 50000, 10000);
-    Worker worker("mohan", 30000, 5000);
+    Manager manager("Vishal", 60000, 10000);
+    Worker worker("mohan", 40000, 5000);
 
     manager.calculateSalary();
     manager.displayDetails();
