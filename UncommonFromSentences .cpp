@@ -26,8 +26,8 @@ public:
 
 int main() {
     Solution solution;
-    string s1 = "this apple is sweet";
-    string s2 = "this apple is sour";
+    string s1 = "This apple is sweet";
+    string s2 = "This apple is sour";
 
     vector<string> result = solution.uncommonFromSentences(s1, s2);
     for (const auto& word : result) {
