@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	int num,rem,temp,sum=0;
-	cout<<"Enter number : ";
+	cout<<"Enter a number : ";
 	cin>>num;
 	
 	temp=num;
