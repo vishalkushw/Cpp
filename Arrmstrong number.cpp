@@ -16,10 +16,10 @@ int main(){
 	}                                             
 	    
 	if(temp==sum){
-		cout<<"it is a armstrong number : ";
+		cout<<"It is a armstrong number : ";
 	}
 	
 	else{
-		cout<<"it is not a armstrong number : ";
+		cout<<"It is not a armstrong number : ";
 	}
 }
